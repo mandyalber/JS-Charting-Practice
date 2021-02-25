@@ -1,4 +1,4 @@
-#chartDiv {
+#chartDiv, #secondChartDiv {
     width: 50%;
     height: 300px;
     margin: 0 auto;
